@@ -5,4 +5,7 @@
 - 📫 Reach me at munirahmedjamali@gmail.com
 - ⚡ Fun fact: When things don't go right , I turn left 😎
 
-- # hey
+
+# how to reach me 
+
+https://www.linkedin.com/in/muneer-jamali/
