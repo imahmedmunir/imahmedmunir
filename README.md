@@ -4,8 +4,3 @@
 - 💞️ I’m looking to collaborate on Security
 - 📫 Reach me at munirahmedjamali@gmail.com
 - ⚡ Fun fact: When things don't go right , I turn left 😎
-
-
-# how to reach me 
-
-https://www.linkedin.com/in/muneer-jamali/
