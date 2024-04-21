@@ -8,7 +8,7 @@
 
 💞️ I’m looking to collaborate on Security projects and Java/Spring-based solutions.
 
-😎 Fun fact: When things don't go right, I always turn left! 🔄
+😎 Fun fact: When things don't go right, turn left! 
 
 ## 📫 How to reach me
 
