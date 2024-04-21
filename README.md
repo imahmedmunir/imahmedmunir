@@ -2,9 +2,13 @@
 
 👀 I’m interested in Development, particularly in Java and Spring, as well as Cyber Security.
 
-🌱 I have extensive experience in Java and Spring development, and I'm currently expanding my expertise in Cyber Security.
+🌱 Learnt Java and Spring development, now delving into Cyber Security.
+
+ 🐧 Passionate about Linux OS
 
 💞️ I’m looking to collaborate on Security projects and Java/Spring-based solutions.
+
+😎 Fun fact: When things don't go right, I always turn left! 🔄
 
 ## 📫 How to reach me
 
