@@ -31,12 +31,10 @@
 </p>
 
 ## Stats
-
 <p align="center">
   <a href="https://github.com/imahmedmunir">
     <img alt="Muneer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=imahmedmunir&show_icons=true&count_private=true&layout=compact&theme=gotham" height="192px"/>
-  </a>
-  <a href="https://github.com/imahmedmunir"><img alt="Muneer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imahmedmunir&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
+  </a><a href="https://github.com/imahmedmunir"><img alt="Muneer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imahmedmunir&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="192px"/>
   </a>
 </p>
 
