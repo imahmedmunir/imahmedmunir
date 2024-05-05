@@ -22,6 +22,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/ahmed.munir"><img src="https://tryhackme-badges.s3.amazonaws.com/ahmed.munir.png" alt="TryHackMe">
+   <script src="https://tryhackme.com/badge/2607851"></script>
 </p>
 
 ## Languages and Tools
