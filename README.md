@@ -22,9 +22,9 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/ahmed.munir"><img src="https://tryhackme-badges.s3.amazonaws.com/ahmed.munir.png" alt="TryHackMe">
-   <script src="https://tryhackme.com/badge/2607851"></script>
-</p>
 
+<a href="https://tryhackme.com/p/ahmed.munir"> <script src="https://tryhackme.com/badge/2607851"></script>
+</p>
 ## Languages and Tools
 <p align="center">
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
