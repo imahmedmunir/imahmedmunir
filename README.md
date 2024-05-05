@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://tryhackme.com/p/ahmed.munir"><img src="https://tryhackme-badges.s3.amazonaws.com/ahmed.munir.png" alt="TryHackMe">
 </p>
-## Languages and Tools
+<h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
 <p align="center">
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
