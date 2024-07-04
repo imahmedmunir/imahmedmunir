@@ -2,7 +2,7 @@
 
 👀 I’m interested in Development, particularly in Java and Spring, as well as Cyber Security.
 
-🌱 Learnt Java and Spring development, now delving into Cyber Security.
+🌱 Learnt Java and Spring development, now delving into Cyber Security (Pentester).
 
  🐧 Passionate about Linux OS
 
