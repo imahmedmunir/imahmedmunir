@@ -1,59 +1,102 @@
-👋 Hi, I’m Muneer Ahmed!
+<div align="center">
 
-👀 I’m interested in Development, particularly in Java and Spring, as well as Cyber Security.
+## Muneer Ahmed
 
-🌱 Learnt Java and Spring development, now delving into Cyber Security (Pentester).
+**Junior Cybersecurity Engineer**
 
- 🐧 Passionate about Linux OS
+Active Directory Security · Threat Detection · PKI · Security Monitoring
 
-💞️ I’m looking to collaborate on Security projects and Java/Spring-based solutions.
+[munirjamali@proton.me](mailto:munirjamali@proton.me) · [linkedin.com/in/muneer-jamali](https://linkedin.com/in/muneer-jamali) · [Portfolio](https://imahmedmunir.github.io/ahmedmunir)
 
-😎 Fun fact: When things don't go right, turn left! 
+*Genoa, Italy · Open to relocation · MSc Cybersecurity, University of Genova (July 2026)*
 
-## 📫 How to reach me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/muneer-jamali/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:munirahmedjamali@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://t.me/iam_ahmedmunir"><img alt="Telegram" src="https://img.shields.io/badge/-Telegram-1ca0f1?style=for-the-badge&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/Bookworm98"></a>
-</p>
-
-</p>
-
-<p align="center">
-  <a href="https://tryhackme.com/p/ahmed.munir"><img src="https://tryhackme-badges.s3.amazonaws.com/ahmed.munir.png" alt="TryHackMe">
-</p>
-<h2 style="font-size:30px" align ="left" width = 100%><u>Tools and Technologies</u></h2>
-<p align="center">
-  <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"></a>
-  <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"></a>
-  <a href="#"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" />
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
-  <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
-</p>
-
-## Stats
-<div style="display: flex; align-items: center; justify-content: center;">
-  <a href="https://github.com/imahmedmunir">
-    <img alt="Muneer's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=imahmedmunir&show_icons=true&count_private=true&layout=compact&theme=gotham" height="160px"/>
-  </a>
-  <a href="https://github.com/imahmedmunir">
-    <img alt="Muneer's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imahmedmunir&langs_count=8&layout=compact&theme=gotham&hide=Jupyter%20Notebook" height="160px"/>
-  </a>
 </div>
-<br>
-<hr>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=imahmedmunir">
-</a>
-<a href="https://github.com/imahmedmunir?tab=followers"><img src="https://img.shields.io/github/followers/imahmedmunir?label=Followers&style=social" alt="GitHub Badge"></a>
+---
 
+### About
 
+I am a cybersecurity MSc candidate specialising in Active Directory security, threat detection, and PKI infrastructure.
 
-<p align="center">
-  <a href="https://buymeacoffee.com/imahmedmunir" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
-</p>
+My thesis at **Teoresi Group** involved building a full enterprise AD lab, simulating credential-based attacks (Kerberoasting, Pass-the-Hash, ACL abuse), and writing Python detection logic mapped to MITRE ATT&CK. At **Ericsson**, I designed and deployed a Certificate Authority for microservice authentication in a production telecoms environment.
+
+Before cybersecurity, I spent four years administering Active Directory in a government institution. I understand enterprise Windows environments from the inside.
+
+My software engineering background (Java, Spring Boot) is a secondary asset — it helps me read code during log investigations and understand application-layer attack surfaces.
+
+**Seeking:** Junior SOC Analyst · Junior Cybersecurity Engineer · Security Analyst · Blue Team roles in Italy.
+
+---
+
+### Work
+
+| | |
+|---|---|
+| **Teoresi Group** | Cybersecurity Analyst — MSc Thesis · *Jul 2025 – Present* |
+| **Ericsson** | Security Engineer Intern, PKI & Vulnerability Assessment · *Apr – Dec 2024* |
+| **High Court of Sindh** | Active Directory Administrator · *Nov 2019 – Sep 2023* |
+
+---
+
+### Projects
+
+**AD Security Monitoring Lab** · [documentation →](https://imahmedmunir.github.io/ahmedmunir)
+Enterprise Active Directory environment built to simulate and detect credential-based attacks.
+Attack coverage: Kerberoasting · Pass-the-Hash · ACL abuse · RDP brute force · SMB enumeration · credential dumping.
+Detection stack: Sysmon · Windows Event Forwarding · Python log analysis · MITRE ATT&CK playbooks.
+`Windows Server 2019` `Active Directory` `Sysmon` `Python` `BloodHound` `VMware`
+*Source code NDA — architecture and methodology documented on portfolio.*
+
+---
+
+**Secure Microservice CA** · [documentation →](https://imahmedmunir.github.io/ahmedmunir)
+Certificate Authority for mutual TLS authentication between microservices. Designed for a production telecoms environment at Ericsson.
+Covered: PKI architecture · certificate lifecycle (issue, renew, revoke) · mTLS configuration.
+`Java` `Spring Boot` `Spring Security` `PKI` `TLS`
+
+---
+
+**Web Application Security Testing** · [github →](https://github.com/imahmedmunir)
+Hands-on OWASP Top 10 testing using DVWA and PortSwigger Academy labs.
+Coverage: SQL injection · XSS · authentication bypass · IDOR · access control flaws.
+`Burp Suite` `OWASP ZAP` `DVWA` `Python`
+
+---
+
+### Skills
+
+**Security Operations**
+Threat detection · log analysis · Windows Event Logs · Sysmon · Windows Event Forwarding · SIEM fundamentals · Kibana/ELK · incident investigation · vulnerability assessment
+
+**Active Directory & Identity**
+Active Directory · Group Policy · Kerberos · NTLM · PKI · Certificate Authority · TLS/mTLS · IAM
+
+**Attack Frameworks**
+MITRE ATT&CK · Kerberoasting · Pass-the-Hash · credential dumping · SMB enumeration
+
+**Tools**
+Sysmon · BloodHound · Mimikatz · Burp Suite · Nmap · Wireshark · Metasploit · OWASP ZAP · PowerShell Empire
+
+**Programming**
+Python · PowerShell · Bash · Java / Spring Boot
+
+**Infrastructure**
+Windows Server 2016/2019 · Linux (Ubuntu, Kali) · TCP/IP · DNS · DHCP · VMware · VirtualBox
+
+---
+
+### Education & Certifications
+
+**MSc — Computer Engineering (Cybersecurity & Systems)**
+University of Genova · Expected July 2026
+
+**BEng — Computer Engineering**
+Mehran University of Engineering and Technology · 2020
+
+Certifications: Junior Penetration Tester (TryHackMe) · Web Application Pentesting (TryHackMe) · Cyber Security Threat Landscape (LinkedIn Learning)
+
+---
+
+### Languages
+
+English — Professional · Italian — Intermediate (B1)
